@@ -1,6 +1,6 @@
 {
   "name": "Sage Kitty",
-  "is_dark": true,
+  "is_dark": false,
   "colors": {
     "accent-color": "#98473E",
     "primary-color": "#CEB1A9",
