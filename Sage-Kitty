@@ -1,0 +1,38 @@
+{
+  "name": "Sage Kitty",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#98473E",
+    "primary-color": "#CEB1A9",
+    "warning-color": "#98473E",
+    "sidebar-color": "#334833",
+    "roomlist-background-color": "#334833",
+    "roomlist-text-color": "#CEB1A9",
+    "roomlist-text-secondary-color": "#CEB1A9",
+    "roomlist-highlights-color": "#98473E",
+    "roomlist-separator-color": "#98473E",
+    "timeline-background-color": "#63755b",
+    "timeline-text-color": "#CEB1A9",
+    "secondary-content": "#CEB1A9",
+    "tertiary-content": "#CEB1A9",
+    "quinary-content": "#CEB1A9",
+    "timeline-text-secondary-color": "#98473E",
+    "timeline-highlights-color": "#98473E",
+    "reaction-row-button-selected-bg-color": "#689d6a",
+    "menu-selected-color": "#98473E",
+    "icon-button-color": "#63755b",
+    "accent": "#689d6a",
+    "alert": "#b16286",
+    "username-colors": [
+      "#CEB1A9",
+      "#689d6a",
+      "#f9cc6c",
+      "#b16286",
+      "#85dacc",
+      "#adda78",
+      "#a89984",
+      "#f38d70"
+    ],
+    "avatar-background-colors": ["#458588", "#b16286", "#adda78"]
+  }
+}
