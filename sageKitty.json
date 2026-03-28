@@ -1,5 +1,6 @@
 {
   "name": "Sage Kitty",
+   "is_dark": true,
   "colors": {
     "accent-color": "#CEB1A9",
     "primary-color": "#CEB1A9",
@@ -16,9 +17,9 @@
     "tertiary-content": "#334833",
     "quinary-content": "#334833",
     "timeline-text-secondary-color": "#98473E",
-    "timeline-highlights-color": "#CEB1A9",
+    "timeline-highlights-color": "#T",
     "reaction-row-button-selected-bg-color": "#CEB1A9",
-    "menu-selected-color": "#CEB1A9",
+    "menu-selected-color": "#98473E",
     "icon-button-color": "#CEB1A9",
     "accent": "#c08bc9",
     "alert": "#b16286",
